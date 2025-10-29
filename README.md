@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hi! 👋</h1>
 <p align='center'>
 I'm Pham Doan Kiem.
 </p>
@@ -7,6 +7,6 @@ I'm Pham Doan Kiem.
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 <p align="center">
-  <img src="./Saitama_1.gif" alt="Saitama relax" width="420" /><br/>
+  <img src="https://raw.githubusercontent.com/m3iK18dp/m3iK18dp/main/Saitama_1.gif" alt="Saitama relax" width="420" /><br/>
   <sub><i>Saitama: Ngồi chill dù deadline đang dí! 😶‍🌫️</i></sub>
 </p>
